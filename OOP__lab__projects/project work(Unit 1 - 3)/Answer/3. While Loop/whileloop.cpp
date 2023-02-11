@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
 
-    int i;
+    int i=1;
     while(i<11){
         cout<<i<<endl;  //endl breaks line and flushes unlike '\n'
         i+=1;  //increases the value in variable 'i' by 1, same as i++ or ++i
